@@ -33,6 +33,7 @@ Lab02/
 │   └── algorithm_comparison.png
 └── data/
     └── README.md
+```
 
 # Cài đặt và chạy
 
@@ -40,8 +41,9 @@ Lab02/
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Chạy pipeline Dynamic Programming hoàn chỉnh:
 
 ```bash
 python src/main.py
+```
